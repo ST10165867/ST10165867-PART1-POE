@@ -17,4 +17,4 @@
   - [Configuration](#configuration)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments
+  - [Acknowledgments](#acknowledgments)
