@@ -1,4 +1,3 @@
-# ST10165867-PART1-POE
 # Student Time Management System
 
 ## Table of Contents
@@ -59,3 +58,14 @@
 <li>Use the Application:
 4. The application should open, allowing you to start using it for time management.</li>
 </ul>
+
+## Configuration
+<br>
+Find a bug?<br>
+If you found an issue or would like to submit an improvement to this project please submit an issue using the issues tab above.
+<br><br>
+Work in progress(Known issues)<br>
+This application is still ongoin. More features a still to be added. Coming soon....
+
+<br><br>
+<h4>Created by: ST10165867 Sukoluhle Ndlovu</h4>
