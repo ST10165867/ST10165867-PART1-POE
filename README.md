@@ -17,4 +17,16 @@ The Student Time Management System Application is a desktop application develope
   - [Configuration](#configuration)
   - [Contributing](#contributing)
   - [License](#license)
-  
+Key Features and Functionality:
+
+<ul><li>1. Module Management: Users can add multiple modules for the semester, providing essential details for each module, including code, name, number of credits, and class hours per week.</li>
+
+2.Semester Configuration: Users can specify the number of weeks in the semester and set a start date for the first week.
+
+3.Self-Study Calculation: The application calculates and displays the number of hours of self-study required for each module per week. This calculation is based on the number of credits a module has and the total number of weeks in the semester, taking into account class hours per week.
+
+4.Hour Recording: Users can record the number of hours they spend working on a specific module on a specific date. This feature allows for accurate tracking of study hours.
+
+5.Self-Study Tracking: The application keeps track of the remaining self-study hours for each module for the current week. This calculation considers the hours already recorded on days during the current week, ensuring users stay on top of their study goals.
+
+6.Data Storage: User data is stored in memory while the software is running, ensuring privacy and data security. The application does not persist user data between runs, which means that data is only available during the current session.</ul>
