@@ -27,7 +27,10 @@
 <li>Self-Study Tracking: The application keeps track of the remaining self-study hours for each module for the current week. This calculation considers the hours already recorded on days during the current week, ensuring users stay on top of their study goals.</li>
 
 <li>Data Storage: User data is stored in memory while the software is running, ensuring privacy and data security. The application does not persist user data between runs, which means that data is only available during the current session.</li></ul>
+
 <li>User Registration: new users can add their login details for the application is to save them in a sql database for new users</li>
+
+<li>User Login: the user can login using their registered username and password. The application automatically redirects the user to thier account profile.</li>
 ## Technologies and Frameworks Used 
 <br>
 1. C#:The primary programming language for application logic.<br>
