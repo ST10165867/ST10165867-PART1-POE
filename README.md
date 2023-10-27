@@ -47,11 +47,16 @@
 ## Installation
 <br>
 <ul>
+<li>Unzip folder and extract the file</li>
 <li>Open the Project:</li>
 <li>Launch Microsoft Visual Studio. </li>
+<li>Go to Database folder and open the LoginDetails</li>
+<li>Go to SQL Server and run the LoginDetails database</li>
+
 <li>Open the Project Folder:<br>
 
 1. Go to File > Open > Project/Solution and navigate to the folder where you cloned or downloaded the project. Select the project file (typically ending with .csproj) and click "Open."</li>
+<li>Go back to Visual Studio and connect to the database LoginDetails </li>
 <li>Build the Project:<br>
 
 2. Once the project is loaded, build it by selecting Build > Build Solution from the Visual Studio menu.</li>
